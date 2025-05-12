@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pingwcy
-- 👀 I’m interested in Languages: python and VisualBasic.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in Languages: C/C++ and C#.
+- 🌱 I’m currently working on Encryption and Steganography.
 - 💞️ I’m looking to collaborate on Security.
 - 📫 You can send me email to pingwcy@outlook.com about technical inforamtion in GitHub, to pingwcy@gmail.com about any other information.
 
